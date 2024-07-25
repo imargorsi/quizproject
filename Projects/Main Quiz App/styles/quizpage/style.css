@@ -1,0 +1,10 @@
+.quiz__pick__heading1 {
+  color: var(--clr-grey);
+  font-size: var(--size-xl);
+}
+
+.quiz__pick__heading2 {
+  color: var(--clr-grey);
+  font-size: var(--size-md);
+  margin-top: var(--size-xs);
+}

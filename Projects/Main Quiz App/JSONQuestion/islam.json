@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the holy book of Islam?",
+    "options": ["Bible", "Torah", "Quran", "Vedas"],
+    "answer": "Quran"
+  },
+  {
+    "question": "Who is considered the last prophet in Islam?",
+    "options": ["Jesus", "Moses", "Abraham", "Muhammad"],
+    "answer": "Muhammad"
+  },
+  {
+    "question": "What is the Arabic word for God in Islam?",
+    "options": ["Yahweh", "Allah", "Brahma", "Zeus"],
+    "answer": "Allah"
+  },
+  {
+    "question": "Which city is considered the holiest in Islam?",
+    "options": ["Jerusalem", "Medina", "Mecca", "Baghdad"],
+    "answer": "Mecca"
+  },
+  {
+    "question": "What is the name of the pilgrimage that Muslims are expected to make at least once in their lifetime?",
+    "options": ["Hajj", "Umrah", "Zakat", "Salah"],
+    "answer": "Hajj"
+  },
+  {
+    "question": "Which angel is said to have revealed the Quran to Muhammad?",
+    "options": ["Gabriel", "Michael", "Raphael", "Azrael"],
+    "answer": "Gabriel"
+  },
+  {
+    "question": "What is the Islamic term for fasting during the month of Ramadan?",
+    "options": ["Sawm", "Zakat", "Hajj", "Salat"],
+    "answer": "Sawm"
+  },
+  {
+    "question": "What is the Islamic place of worship called?",
+    "options": ["Church", "Temple", "Mosque", "Synagogue"],
+    "answer": "Mosque"
+  },
+  {
+    "question": "How many times a day are Muslims called to pray?",
+    "options": ["Three", "Five", "Seven", "Ten"],
+    "answer": "Five"
+  },
+  {
+    "question": "What is the term for the charitable giving that is one of the Five Pillars of Islam?",
+    "options": ["Hajj", "Zakat", "Sawm", "Salat"],
+    "answer": "Zakat"
+  }
+]

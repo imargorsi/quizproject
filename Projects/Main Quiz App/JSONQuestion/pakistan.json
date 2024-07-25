@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the capital city of Pakistan?",
+    "options": ["Karachi", "Islamabad", "Lahore", "Peshawar"],
+    "answer": "Islamabad"
+  },
+  {
+    "question": "Which river is the longest in Pakistan?",
+    "options": ["Indus", "Jhelum", "Chenab", "Ravi"],
+    "answer": "Indus"
+  },
+  {
+    "question": "Who is considered the founding father of Pakistan?",
+    "options": [
+      "Allama Iqbal",
+      "Liaquat Ali Khan",
+      "Muhammad Ali Jinnah",
+      "Benazir Bhutto"
+    ],
+    "answer": "Muhammad Ali Jinnah"
+  },
+  {
+    "question": "In which year did Pakistan become an independent country?",
+    "options": ["1945", "1947", "1950", "1952"],
+    "answer": "1947"
+  },
+  {
+    "question": "What is the official language of Pakistan?",
+    "options": ["Urdu", "Punjabi", "Sindhi", "Pashto"],
+    "answer": "Urdu"
+  },
+  {
+    "question": "Which is the highest mountain peak in Pakistan?",
+    "options": ["Nanga Parbat", "K2", "Gasherbrum I", "Broad Peak"],
+    "answer": "K2"
+  },
+  {
+    "question": "What is the currency of Pakistan?",
+    "options": ["Rupee", "Taka", "Riyal", "Dinar"],
+    "answer": "Rupee"
+  },
+  {
+    "question": "Which city is known as the 'City of Lights' in Pakistan?",
+    "options": ["Lahore", "Karachi", "Islamabad", "Quetta"],
+    "answer": "Karachi"
+  },
+  {
+    "question": "What is the national flower of Pakistan?",
+    "options": ["Rose", "Lily", "Jasmine", "Tulip"],
+    "answer": "Jasmine"
+  },
+  {
+    "question": "Which body of water borders Pakistan to the south?",
+    "options": ["Arabian Sea", "Red Sea", "Bay of Bengal", "Persian Gulf"],
+    "answer": "Arabian Sea"
+  }
+]

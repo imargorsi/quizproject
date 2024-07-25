@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "Berlin", "Rome", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Mark Twain",
+      "Charles Dickens",
+      "Jane Austen"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Silver", "Osmium"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "answer": "Nile River"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": ["1912", "1905", "1898", "1923"],
+    "answer": "1912"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Nikola Tesla",
+      "Galileo Galilei"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "answer": "Diamond"
+  }
+]

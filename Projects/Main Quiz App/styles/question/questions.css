@@ -1,0 +1,149 @@
+.questions__wrapper {
+  width: 100%;
+  height: 100vh;
+  background: rgb(53, 11, 149);
+  background: linear-gradient(
+    107deg,
+    rgba(53, 11, 149, 1) 15%,
+    rgba(153, 108, 239, 1) 100%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.question__box {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: var(--size-3xl);
+  width: 80%; /* Adjust this width if needed */
+}
+
+.question___counter {
+  color: var(--clr-grey);
+  font-size: var(--size-md);
+  font-weight: 400;
+}
+
+.question__heading {
+  font-size: 2rem;
+  color: var(--clr-white);
+  line-height: var(--size-xl);
+  margin-top: var(--size-base);
+}
+
+.question__container {
+  width: 60%; /* Fixed width for the question container */
+}
+
+.answers__container {
+  width: 40%; /* Fixed width for the answers container */
+}
+
+.answer__options {
+  display: flex;
+  gap: var(--size-md);
+  margin-top: var(--size-base);
+  align-items: center;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.2
+  ); /* Semi-transparent white background */
+  backdrop-filter: blur(10px); /* Blur effect */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+  border-radius: 20px; /* Optional: Rounded corners */
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Optional: Border for better effect */
+  padding: 10px 20px; /* Optional: Padding for spacing */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Subtle shadow for depth */
+  cursor: pointer;
+  transition: all 0.6s ease-in-out;
+}
+
+.active__answer {
+  background-color: var(--clr-blue-primary);
+  transform: scale(1.1);
+}
+
+.option__box {
+  font-size: var(--size-base);
+  padding: 8px 14px;
+  background-color: var(--clr-grey);
+  color: var(--clr-black);
+  border-radius: 8px;
+}
+
+.answer__single {
+  font-size: var(--size-base);
+  color: var(--clr-grey);
+  font-weight: 500;
+}
+
+.submit__btn {
+  margin-top: var(--size-base);
+  width: 100%;
+  background-color: var(--clr-grey);
+  padding: 25px;
+  font-size: var(--size-base);
+  border-radius: 20px;
+  color: var(--clr-black);
+  font-weight: 600;
+}
+
+.skillBarContainer {
+  width: 100%;
+  height: 100%;
+  margin-top: var(--size-xl);
+  background-color: var(--clr-blue-primary);
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.skillBarValue {
+  height: 1em;
+  float: left;
+  background-color: var(--clr-blue-light);
+}
+
+/* Allowed values for the css skill bars */
+.value-1 {
+  width: 10%;
+}
+.value-2 {
+  width: 20%;
+}
+.value-3 {
+  width: 30%;
+}
+.value-4 {
+  width: 40%;
+}
+.value-5 {
+  width: 50%;
+}
+.value-6 {
+  width: 60%;
+}
+.value-7 {
+  width: 70%;
+}
+.value-8 {
+  width: 80%;
+}
+.value-9 {
+  width: 90%;
+}
+.value-10 {
+  width: 100%;
+}
+
+.submit__btn.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.wrong__answer {
+  border: 1px solid red;
+}

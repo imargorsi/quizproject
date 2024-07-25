@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz Page</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles/modern-normalize.css" />
+    <link rel="stylesheet" href="./styles/question/questions.css" />
+    <link rel="stylesheet" href="./styles/globals.css" />
+  </head>
+  <body>
+    <div class="questions__wrapper">
+      <div class="question__box container">
+        <div class="question__container">
+          <h4 class="question___counter">
+            Question <span id="question__counter">0</span> of
+            <span id="full_counter">0</span>
+          </h4>
+
+          <h2 class="question__heading">
+            Which of these color contrast ratios defines the minimum WCAG 2.1
+            Level AA requirement for normal ?
+          </h2>
+
+          <div class="skillBarContainer">
+            <div class="skillBarValue"></div>
+          </div>
+        </div>
+        <div class="answers__container">
+          <div class="answer__options">
+            <h2 class="option__box">A</h2>
+            <h3 class="answer__single">Question</h3>
+          </div>
+          <div class="answer__options">
+            <h2 class="option__box">A</h2>
+            <h3 class="answer__single">Question</h3>
+          </div>
+          <div class="answer__options">
+            <h2 class="option__box">A</h2>
+            <h3 class="answer__single">Question</h3>
+          </div>
+          <div class="answer__options">
+            <h2 class="option__box">A</h2>
+            <h3 class="answer__single">Question</h3>
+          </div>
+          <button class="submit__btn">Submit Answer</button>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/js/singlequestion.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </body>
+</html>
